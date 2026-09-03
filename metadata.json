@@ -1,0 +1,6 @@
+{
+  "name": "Personal News & Blog",
+  "description": "Zamonaviy, tezkor va professional shaxsiy yangiliklar va blog platformasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
